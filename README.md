@@ -4,6 +4,7 @@ Image processing is becoming a major part of data processig. The code provides e
 
 
 ![normal_0](https://user-images.githubusercontent.com/63404097/149630895-66cb89c8-908c-4f76-9335-0410f6c50fb4.jpg)
+
 Original image
 
 
@@ -15,5 +16,6 @@ Original image
 
 
 ![covid_0](https://user-images.githubusercontent.com/63404097/149630893-253a99ba-4e9b-43b1-9068-74f86d70c096.jpg)
+
 CLAHE image
 
